@@ -1,159 +1,158 @@
 <h1 align="center">Hi 👋, I'm Saksham Gupta</h1>
 
 <h3 align="center">
-Software Engineer | Full Stack Developer | Blockchain Researcher
+Software Engineer • Full Stack Developer • Blockchain Researcher
 </h3>
 
 <p align="center">
-Building scalable applications, blockchain solutions, and AI-powered systems.
+Building secure, scalable, and impactful software solutions through Full Stack Development, Blockchain, and Artificial Intelligence.
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 Final Year B.Tech student in Computer Science (Cyber Security)
+I'm a Final Year **B.Tech Computer Science (Cyber Security)** student passionate about designing scalable applications, secure backend systems, and blockchain-powered solutions.
 
-🏆 Research Presenter at IEEE CICN 2026
+I enjoy transforming real-world ideas into practical software by combining modern web technologies, backend engineering, and AI. My interests lie in Software Engineering, Full Stack Development, Blockchain, Cyber Security, and Artificial Intelligence.
 
-💼 IBM–NASSCOM Blockchain Intern
-
-💻 Passionate about Software Engineering, Backend Development, Blockchain, and AI
-
-🌱 Constantly learning new technologies and building real-world projects
+- 🎓 Final Year B.Tech Student (Computer Science – Cyber Security)
+- 🏆 Research Presenter at **IEEE CICN 2026**
+- 💼 IBM–NASSCOM Blockchain Intern
+- 📄 Author of research on Blockchain-based Drug Authentication
+- 🌱 Continuously learning modern technologies and building real-world applications
+- 🚀 Seeking Software Engineering opportunities
 
 ---
 
-## 💼 Current Focus
+# 🎯 Current Focus
 
 - Full Stack Development
 - Backend Engineering
-- Blockchain Development
+- REST API Development
+- Blockchain Applications
+- Artificial Intelligence Integration
 - Data Structures & Algorithms
-- AI Integration
 - System Design
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+## Languages
 
 - Java
 - C++
 - Python
 - JavaScript
+- TypeScript
 - SQL
 - Solidity
 
-### Frontend
+## Frontend
 
 - React
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Tailwind CSS
+- Bootstrap
 
-### Backend
+## Backend
 
 - Node.js
 - Express.js
 - Flask
 - Django
 
-### Blockchain
+## Blockchain
 
 - Ethereum
 - Polygon
-- Hyperledger Fabric
 - Hardhat
+- Smart Contracts
 - MetaMask
 
-### Databases
+## Databases
 
-- MongoDB
 - PostgreSQL
+- MongoDB
 - MySQL
 
-### Tools
+## Tools
 
 - Git
 - GitHub
 - Postman
 - VS Code
 - Linux
+- Docker (Learning)
 
 ---
 
-## ⭐ Featured Projects
+# 🚀 Featured Projects
 
-### 💰 CryptoCurrency Simulation
+## 💰 CryptoCurrency Simulation
 
-Blockchain-powered cryptocurrency simulator with:
-
-- Wallet Management
-- Proof-of-Work Mining
-- ECDSA Transactions
-- Machine Learning Fraud Detection
-- AI Blockchain Assistant
+Blockchain-powered cryptocurrency simulation platform featuring secure wallet management, Proof-of-Work mining, ECDSA transactions, machine learning fraud detection, and an AI-powered blockchain assistant.
 
 ---
 
-### 💊 Pharma Blockchain AI
+## 💊 Pharma Blockchain AI
 
-Hybrid blockchain platform for drug authentication featuring:
-
-- QR Verification
-- Hyperledger Fabric
-- Polygon Blockchain
-- Anti-Counterfeiting
-- Supply Chain Tracking
+Hybrid blockchain solution for pharmaceutical supply chain security with QR-based drug authentication, blockchain traceability, and counterfeit prevention.
 
 ---
 
-### 🏥 Healthcare Appointment Manager
+## 🏥 Healthcare Appointment Manager
 
-Full Stack Healthcare Platform featuring:
-
-- Doctor Portal
-- Patient Portal
-- Appointment Management
-- AI Symptom Analysis
-- Google Calendar Integration
+Full Stack healthcare management platform featuring role-based authentication, appointment scheduling, AI-powered symptom analysis, Google Calendar integration, and PostgreSQL database support.
 
 ---
 
-### 🛡 SQL Injection Detection
+## 🛡 SQL Injection Vulnerability Detection
 
-Security-focused project for detecting SQL Injection vulnerabilities using machine learning techniques.
-
----
-
-## 📚 Research
-
-**Hybrid Blockchain-Based Drug Authentication & Anti-Counterfeiting System**
-
-Presented at IEEE CICN 2026.
-
-Research focused on secure pharmaceutical supply chain management using blockchain technologies.
+Machine learning-based cybersecurity project focused on detecting SQL Injection vulnerabilities to improve web application security.
 
 ---
 
-## 🌱 Currently Learning
+# 📚 Research Publication
+
+## Hybrid Blockchain-Based Drug Authentication & Anti-Counterfeiting System
+
+Presented at the **18th IEEE International Conference on Computational Intelligence and Network Technologies (IEEE CICN 2026).**
+
+The research focuses on enhancing pharmaceutical supply chain security through blockchain-enabled drug traceability and counterfeit prevention.
+
+---
+
+# 📖 Currently Learning
 
 - Spring Boot
 - Docker
 - Kubernetes
-- AWS
-- System Design
+- AWS Cloud
+- Microservices
 - Advanced React
+- System Design
 
 ---
 
-## 📫 Connect With Me
+# 🎯 Career Interests
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- GitHub: https://github.com/saksham0008
+- Software Engineering
+- Backend Development
+- Full Stack Development
+- Blockchain Engineering
+- Cloud Computing
+- Artificial Intelligence
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/saksham-gupta0008
+- 💻 GitHub: https://github.com/saksham0008
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
