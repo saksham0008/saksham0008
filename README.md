@@ -5,23 +5,23 @@ Software Engineer • Full Stack Developer • Blockchain Researcher
 </h3>
 
 <p align="center">
-Building secure, scalable, and impactful software solutions through Full Stack Development, Blockchain, and Artificial Intelligence.
+Passionate about building scalable web applications, secure backend systems, blockchain solutions, and AI-powered software that solves real-world problems.
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a Final Year **B.Tech Computer Science (Cyber Security)** student passionate about designing scalable applications, secure backend systems, and blockchain-powered solutions.
+I'm a **Final Year B.Tech Computer Science (Cyber Security)** student with a strong interest in **Software Engineering**, **Full Stack Development**, **Backend Development**, **Blockchain**, and **Artificial Intelligence**.
 
-I enjoy transforming real-world ideas into practical software by combining modern web technologies, backend engineering, and AI. My interests lie in Software Engineering, Full Stack Development, Blockchain, Cyber Security, and Artificial Intelligence.
+I enjoy designing secure, scalable, and production-ready applications while continuously learning modern technologies and software engineering best practices.
 
 - 🎓 Final Year B.Tech Student (Computer Science – Cyber Security)
 - 🏆 Research Presenter at **IEEE CICN 2026**
 - 💼 IBM–NASSCOM Blockchain Intern
-- 📄 Author of research on Blockchain-based Drug Authentication
-- 🌱 Continuously learning modern technologies and building real-world applications
-- 🚀 Seeking Software Engineering opportunities
+- 📄 Research Author in Blockchain-Based Pharmaceutical Supply Chain Security
+- 🌱 Always learning, building, and improving
+- 🚀 Actively seeking Software Engineering opportunities
 
 ---
 
@@ -30,7 +30,7 @@ I enjoy transforming real-world ideas into practical software by combining moder
 - Full Stack Development
 - Backend Engineering
 - REST API Development
-- Blockchain Applications
+- Blockchain Development
 - Artificial Intelligence Integration
 - Data Structures & Algorithms
 - System Design
@@ -39,7 +39,7 @@ I enjoy transforming real-world ideas into practical software by combining moder
 
 # 🛠 Tech Stack
 
-## Languages
+### 💻 Languages
 
 - Java
 - C++
@@ -49,7 +49,7 @@ I enjoy transforming real-world ideas into practical software by combining moder
 - SQL
 - Solidity
 
-## Frontend
+### 🎨 Frontend
 
 - React
 - HTML5
@@ -57,14 +57,14 @@ I enjoy transforming real-world ideas into practical software by combining moder
 - Tailwind CSS
 - Bootstrap
 
-## Backend
+### ⚙ Backend
 
 - Node.js
 - Express.js
 - Flask
 - Django
 
-## Blockchain
+### ⛓ Blockchain
 
 - Ethereum
 - Polygon
@@ -72,13 +72,13 @@ I enjoy transforming real-world ideas into practical software by combining moder
 - Smart Contracts
 - MetaMask
 
-## Databases
+### 🗄 Databases
 
 - PostgreSQL
 - MongoDB
 - MySQL
 
-## Tools
+### 🛠 Tools & Platforms
 
 - Git
 - GitHub
@@ -91,41 +91,56 @@ I enjoy transforming real-world ideas into practical software by combining moder
 
 # 🚀 Featured Projects
 
-## 💰 CryptoCurrency Simulation
-
-Blockchain-powered cryptocurrency simulation platform featuring secure wallet management, Proof-of-Work mining, ECDSA transactions, machine learning fraud detection, and an AI-powered blockchain assistant.
-
----
-
-## 💊 Pharma Blockchain AI
-
-Hybrid blockchain solution for pharmaceutical supply chain security with QR-based drug authentication, blockchain traceability, and counterfeit prevention.
-
----
-
 ## 🏥 Healthcare Appointment Manager
 
-Full Stack healthcare management platform featuring role-based authentication, appointment scheduling, AI-powered symptom analysis, Google Calendar integration, and PostgreSQL database support.
+A production-style Full Stack healthcare platform designed to simplify appointment scheduling and patient management.
+
+### Key Features
+
+- Doctor & Patient Portals
+- Secure Authentication & Authorization
+- Appointment Scheduling System
+- AI-powered Symptom Analysis
+- Google Calendar Integration
+- PostgreSQL Database
+- Responsive User Interface
+
+**Tech Stack**
+
+React • TypeScript • Node.js • Express • PostgreSQL
 
 ---
 
-## 🛡 SQL Injection Vulnerability Detection
+## 💰 CryptoCurrency Simulation
 
-Machine learning-based cybersecurity project focused on detecting SQL Injection vulnerabilities to improve web application security.
+A blockchain-powered cryptocurrency simulation platform demonstrating the core concepts behind modern cryptocurrencies.
+
+### Key Features
+
+- Secure Wallet Management
+- Proof-of-Work Mining
+- ECDSA Digital Signatures
+- Blockchain Transaction Validation
+- Machine Learning Fraud Detection
+- AI-powered Blockchain Assistant
+
+**Tech Stack**
+
+Python • Flask • Blockchain • Machine Learning
 
 ---
 
 # 📚 Research Publication
 
-## Hybrid Blockchain-Based Drug Authentication & Anti-Counterfeiting System
+## Hybrid Blockchain-Based Drug Authentication & Anti-Counterfeiting System with QR-Enabled Verification
 
-Presented at the **18th IEEE International Conference on Computational Intelligence and Network Technologies (IEEE CICN 2026).**
+Presented at the **18th IEEE International Conference on Computational Intelligence and Network Technologies (IEEE CICN 2026)**.
 
-The research focuses on enhancing pharmaceutical supply chain security through blockchain-enabled drug traceability and counterfeit prevention.
+The research proposes a hybrid blockchain framework for securing pharmaceutical supply chains through drug traceability, QR-based verification, and counterfeit prevention.
 
 ---
 
-# 📖 Currently Learning
+# 🌱 Currently Learning
 
 - Spring Boot
 - Docker
@@ -133,26 +148,45 @@ The research focuses on enhancing pharmaceutical supply chain security through b
 - AWS Cloud
 - Microservices
 - Advanced React
+- Advanced Backend Development
 - System Design
 
 ---
 
-# 🎯 Career Interests
+# 💼 Career Interests
+
+I'm passionate about building software in the following domains:
 
 - Software Engineering
-- Backend Development
 - Full Stack Development
+- Backend Development
 - Blockchain Engineering
 - Cloud Computing
 - Artificial Intelligence
+- Cyber Security
+
+---
+
+# 📈 Current Goals
+
+- Build production-ready Full Stack applications
+- Strengthen Data Structures & Algorithms
+- Learn scalable system architecture
+- Contribute to Open Source
+- Explore Cloud & DevOps technologies
 
 ---
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/saksham-gupta0008
-- 💻 GitHub: https://github.com/saksham0008
+💼 LinkedIn  
+https://linkedin.com/in/saksham-gupta0008
+
+💻 GitHub  
+https://github.com/saksham0008
 
 ---
 
+<p align="center">
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
