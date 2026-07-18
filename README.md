@@ -41,7 +41,7 @@ Building secure, scalable and impactful software through modern engineering, blo
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,react,nodejs,express,flask,django,mongodb,postgres,mysql,git,github,docker,linux,postman,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nodejs,express,flask,django,mongodb,postgres,mysql,git,github,docker,linux,postman,vscode&perline=10"/>
 </p>
 
 <table>
