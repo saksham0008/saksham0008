@@ -9,6 +9,7 @@ Replace the line below after creating your banner:
 
 <h2 align ="center">I'm a Software Engineering enthusiast who enjoys building secure, scalable, and user-focused applications. My interests span backend development, blockchain, AI, and modern web technologies.</h2>
 
+
 <h3 align="center">
 Software Engineer • Full Stack Developer • Building Secure & Scalable Software
 </h3>
@@ -80,7 +81,7 @@ Building secure, scalable and impactful software through modern engineering, blo
 <td width="50%">
 
 ### 🏥 Healthcare Appointment Manager
-**Repository:** [Healthcare Appointment Manager]https://github.com/saksham0008/healthcare-appointment-manager
+**Repository:** https://github.com/saksham0008/healthcare-appointment-manager
 
 Production-ready healthcare platform built with React, Node.js and PostgreSQL for appointment scheduling and patient management.
 
@@ -102,7 +103,7 @@ React • TypeScript • Node.js • Express • PostgreSQL
 <td width="50%">
 
 ### 💰 CryptoCurrency Simulation
-**Repository:** [CryptoCurrency Simulation]https://github.com/saksham0008/CryptoCurrency_Simulation
+**Repository:** https://github.com/saksham0008/CryptoCurrency_Simulation
 
 Blockchain-powered cryptocurrency simulator demonstrating the core concepts of modern blockchain systems.
 
