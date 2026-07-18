@@ -7,8 +7,10 @@ Replace the line below after creating your banner:
 
 <h1 align="center">Hi 👋, I'm Saksham Gupta</h1>
 
+<h2 align ="center">I'm a Software Engineering enthusiast who enjoys building secure, scalable, and user-focused applications. My interests span backend development, blockchain, AI, and modern web technologies.</h2>
+
 <h3 align="center">
-Software Engineer • Full Stack Developer • Blockchain Researcher
+Software Engineer • Full Stack Developer • Building Secure & Scalable Software
 </h3>
 
 <p align="center">
@@ -16,14 +18,13 @@ Building secure, scalable and impactful software through modern engineering, blo
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&center=true&vCenter=true&width=820&color=4F8EF7&lines=Software+Engineer;Full+Stack+Developer;Blockchain+Researcher;IEEE+CICN+2026+Presenter;IBM-NASSCOM+Blockchain+Intern;Building+Production+Ready+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&center=true&vCenter=true&width=820&color=4F8EF7&lines=Software+Engineer;Full+Stack+Developer;Blockchain+Researcher;IEEE+CICN+2026+Presenter;IBM-NASSCOM+Blockchain+Intern;Building+Secure+%26+Scalable+Software" />
 </p>
 
 <p align="center">
 <a href="https://komarev.com/ghpvc/?username=saksham0008"><img src="https://komarev.com/ghpvc/?username=saksham0008&style=for-the-badge&color=0E75B6"/></a>
 <a href="https://github.com/saksham0008"><img src="https://img.shields.io/github/followers/saksham0008?style=for-the-badge"/></a>
 <a href="https://linkedin.com/in/saksham-gupta0008"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Open%20To-Software%20Engineering-success?style=for-the-badge"/>
 </p>
 
 ---
@@ -34,7 +35,6 @@ Building secure, scalable and impactful software through modern engineering, blo
 - 🏆 IEEE CICN 2026 Research Presenter
 - 💼 IBM–NASSCOM Blockchain Intern
 - 💻 Passionate about Backend Engineering, Full Stack Development & Blockchain
-- 🌍 Based in India
 
 ---
 
@@ -80,8 +80,11 @@ Building secure, scalable and impactful software through modern engineering, blo
 <td width="50%">
 
 ### 🏥 Healthcare Appointment Manager
+**Repository:** [Healthcare Appointment Manager]https://github.com/saksham0008/healthcare-appointment-manager
 
-Production-ready healthcare platform with:
+Production-ready healthcare platform built with React, Node.js and PostgreSQL for appointment scheduling and patient management.
+
+✨ Features
 
 - Role-Based Authentication
 - Doctor & Patient Portal
@@ -90,7 +93,7 @@ Production-ready healthcare platform with:
 - Google Calendar Integration
 - PostgreSQL
 
-**Stack**
+**Tech Stack**
 
 React • TypeScript • Node.js • Express • PostgreSQL
 
@@ -99,8 +102,11 @@ React • TypeScript • Node.js • Express • PostgreSQL
 <td width="50%">
 
 ### 💰 CryptoCurrency Simulation
+**Repository:** [CryptoCurrency Simulation]https://github.com/saksham0008/CryptoCurrency_Simulation
 
-Blockchain-powered cryptocurrency simulator featuring:
+Blockchain-powered cryptocurrency simulator demonstrating the core concepts of modern blockchain systems.
+
+✨ Features
 
 - Secure Wallet Management
 - Proof-of-Work Mining
@@ -108,7 +114,7 @@ Blockchain-powered cryptocurrency simulator featuring:
 - Fraud Detection
 - AI Blockchain Assistant
 
-**Stack**
+**Tech Stack**
 
 Python • Flask • Blockchain • Machine Learning
 
@@ -118,13 +124,13 @@ Python • Flask • Blockchain • Machine Learning
 
 ---
 
-## 🏆 Research
+## 🏆 Research Publication
 
-### Hybrid Blockchain-Based Drug Authentication & Anti-Counterfeiting System
+**Hybrid Blockchain-Based Drug Authentication & Anti-Counterfeiting System**
 
-Presented at the **18th IEEE International Conference on Computational Intelligence and Network Technologies (IEEE CICN 2026)**.
+📍 Presented at the **18th IEEE International Conference on Computational Intelligence and Network Technologies (IEEE CICN 2026)**
 
-Research focused on blockchain-enabled pharmaceutical traceability, QR-based verification and counterfeit prevention.
+🔬 Focus: Blockchain-enabled pharmaceutical traceability, QR-based verification, and counterfeit prevention.
 
 ---
 
@@ -151,7 +157,6 @@ Research focused on blockchain-enabled pharmaceutical traceability, QR-based ver
 <a href="https://linkedin.com/in/saksham-gupta0008"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/saksham0008"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -160,10 +165,7 @@ Research focused on blockchain-enabled pharmaceutical traceability, QR-based ver
 <i>"Building software that solves real-world problems through clean architecture, secure systems and continuous learning."</i>
 </p>
 
-<p align="center">
-⭐ Thanks for visiting my profile ⭐
-</p>
-
+<h3 align="center">Thanks for stopping by! 👋</h3>
 <!--
 NEXT (Recommended)
 1. Replace placeholder with custom banner.
