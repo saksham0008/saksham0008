@@ -80,7 +80,7 @@ Building secure, scalable and impactful software through modern engineering, blo
 <tr>
 <td width="50%">
 
-### 🏥 Healthcare Appointment Manager
+### 🏥 **Healthcare Appointment Manager**
 
 Production-ready healthcare platform built with React, Node.js and PostgreSQL for appointment scheduling and patient management.
 
@@ -100,8 +100,9 @@ React • TypeScript • Node.js • Express • PostgreSQL
 **Repository:** https://github.com/saksham0008/healthcare-appointment-manager
 
 </td>
+
 <td width="50%">
-### 💰 CryptoCurrency Simulation
+### 💰 **CryptoCurrency Simulation**
 
 Blockchain-powered cryptocurrency simulator demonstrating the core concepts of modern blockchain systems.
 
