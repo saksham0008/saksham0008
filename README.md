@@ -47,7 +47,7 @@ Building secure, scalable and impactful software through modern engineering, blo
 <table>
 <tr>
 <td><b>Languages</b></td>
-<td>Java • C++ • Python • JavaScript • TypeScript • SQL • Solidity</td>
+<td> C++ • Python • Java • JavaScript • TypeScript • SQL • Solidity</td>
 </tr>
 
 <tr>
@@ -67,7 +67,7 @@ Building secure, scalable and impactful software through modern engineering, blo
 
 <tr>
 <td><b>Database</b></td>
-<td>PostgreSQL • MongoDB • MySQL</td>
+<td>MySQL • PostgreSQL • MongoDB</td>
 </tr>
 </table>
 
